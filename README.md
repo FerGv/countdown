@@ -1,6 +1,6 @@
 # countdown
 
-[Live Demo](https://fergv.github.io/countdown/)
+[Live Demo](https://fergv.com/countdown/)
 
 Countdown until the first day of next year.
 
